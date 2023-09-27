@@ -1,6 +1,16 @@
 # arkit-with-swiftui
 This Basic AR App, built with SwiftUI, demonstrates how to integrate Apple's ARKit with SwiftUI, allowing developers to create augmented reality (AR) experiences within a SwiftUI-based app. By wrapping ARKit views in UIViewRepresentable structures, we can seamlessly blend AR content with SwiftUI user interfaces. This README provides a brief overview of how this integration works and the structure of the app.
 
+## Table of Contents
+
+- [How It Works](#how-it-works)
+  - [ARKit and RealityKit](#arkit-and-realitykit)
+  - [SwiftUI and UIViewRepresentable](#swiftui-and-uiviewrepresentable)
+- [Application Structure](#application-structure)
+- [Connecting ARKit to SwiftUI](#connecting-arkit-to-swiftui)
+
+
+
 https://github.com/RexanWONG/arkit-with-swiftui/assets/96183717/bac2fab6-e81e-4e78-8026-8e1499e4d565
 
 ## How It Works
