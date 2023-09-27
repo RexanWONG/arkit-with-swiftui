@@ -5,9 +5,11 @@
 //  Created by Rexan Wong on 21/9/2023.
 //
 
+// This is the main content view of the app.
 import SwiftUI
 
 struct ContentView: View {
+    // An array of colors for block placement.
     @State private var colors: [Color] = [
         .green,
         .red,
